@@ -1,0 +1,6 @@
+Maira:
+Fonte título: Inria Serif Regular 45px
+Fonte texto: Inter Light 22px
+color: #FFFF
+
+“Mais do que números, eu acredito que finanças são sobre escolhas inteligentes, clareza emocional e autonomia. E é com essa visão que conduzo os meus clientes rumo a uma vida de sucesso.” Este texto aqui é light itálico 18px color 2F2F2F
