@@ -10,7 +10,7 @@ export default function Hero() {
 
   const copy = {
     pt: {
-      title: "Sua liberdade é o maior patrimônio",
+      title: "Sua liberdade é o seu maior patrimônio",
       text: "Fundadora da Virtus financial, Maíra atua entre o Brasil e o Canadá, ajudando pessoas e empresas a conquistarem liberdade financeira e multiplicarem seu patrimônio com leveza, propósito e estratégia.",
       cta: "Conheça a Virtus Financial",
       contact: "Entre em contato",
