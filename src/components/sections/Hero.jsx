@@ -42,7 +42,7 @@ export default function Hero() {
           <p className="hero__text hero__text--light">{text}</p>
 
           <div className="hero__actions">
-            <Button href="#cta" variant="outline">
+            <Button href="https://virtusfinancial.vercel.app/" target="_blank" rel="noopener noreferrer" variant="outline">
               {cta}
             </Button>
 

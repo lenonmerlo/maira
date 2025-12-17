@@ -102,7 +102,7 @@ export default function CTA() {
 
           <p className="cta__text">{text}</p>
 
-          <Button href="#top" variant="outline">
+          <Button href="https://virtusfinancial.vercel.app/" target="_blank" rel="noopener noreferrer" variant="outline">
             {cta}
           </Button>
 
