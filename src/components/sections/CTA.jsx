@@ -21,7 +21,7 @@ const contacts = [
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/mairagurgel",
+    href: "https://www.linkedin.com/in/maíragurgel",
     aria: "Abrir perfil no LinkedIn",
     icon: (
       <svg viewBox="0 0 24 24" aria-hidden="true">
